@@ -6,4 +6,22 @@
 
 .menu{
     background-color: #4572e8;
+    padding: 20px 0;
+}
+
+.menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.menu ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
 }
